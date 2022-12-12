@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 나는 건준이 형님의 충실한 오른팔
 
 <!--
 **In-chijun/In-chijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
