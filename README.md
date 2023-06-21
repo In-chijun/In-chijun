@@ -1,5 +1,14 @@
 ### 톡톡 튀는 것을 좋아하는 개발자입니다!!
 
+<div align="center">
+
+  <h2> 😎 In ChiJun 😎 </h2>
+👋 Hi, I’m In ChiJun
+
+🌱 I’m backend developer using Django
+
+📫 How to reach me ... clwnssla@naver.com
+
 <!--
 **In-chijun/In-chijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
