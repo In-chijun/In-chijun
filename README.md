@@ -1,4 +1,4 @@
-### Hi there 👋
+### 톡톡 튀는 것을 좋아하는 개발자입니다!!
 
 <!--
 **In-chijun/In-chijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
